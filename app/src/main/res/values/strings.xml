@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">自定义View时钟</string>
+    <string name="titlebar_text"> Big Bang</string>
+</resources>
